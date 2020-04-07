@@ -1,0 +1,2 @@
+Bir sayı tahmin oyunu tasarlayınız. Bu oyunda kullanıcı önceden tanımlı bir sayıyı tahmin etmeye çalışsın. Kullanıcı tahmin değerini klavyeden girsin Kullanıcı tahmini küçük ise “Daha Buyuk Tahmin Yap”, kullanıcı tahmini büyükse “Daha Kucuk Tahmin Yap” uyarısı verilsin. Kullanıcı sayıyı tutturana kadar tahmin yapmaya devam etsin. Kullanıcı doğru tahmin yaptığında, “Tebrikler Bildiniz” mesajı yazdırılsın.
+•Sonrasında oyuna devam edip etmek istemediği sorulsun. Kullanıcı cevap olarak 1 girdiği sürece oyun devam etsin. Kullanıcı -1 girmiş ise oyun sonlansın
