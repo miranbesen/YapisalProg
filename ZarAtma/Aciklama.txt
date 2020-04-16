@@ -1,0 +1,7 @@
+Oyuncu 2 adet zar atar, zarın üzerinde gelen rakamların toplamına göre:
+7 veya 11 gelirse KAZANIR
+2 - 3 veya 12  gelirse KAYBEDER
+Diğer rakamlardan biri gelmiş ise (örneğin  8 ) bu toplam puan olur ve bir kez daha zar atılır. Buna ikinci tur diyelim
+2. turda gelen zar eğer 7  ise KABEDER
+2. turda gelen zar toplam puana eşitse (örenğin 8) KAZANIR
+Diğer durumda zar atılmaya devam eder ve 2. Tur kuralları geçerli olur
