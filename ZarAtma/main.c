@@ -19,10 +19,10 @@ int main(int argc, char *argv[])
 	zarTop=zar1+zar2;
 	
 	if(zarTop==7 || zarTop==11){
-		printf("kazandin0");
+		printf("kazandin");
 	}
 	else if(zarTop==2 || zarTop==3 || zarTop==12){
-		printf("kaybettin0");
+		printf("kaybettin");
 	}
 	else{
 		puan=zarTop;
@@ -31,18 +31,18 @@ int main(int argc, char *argv[])
 		zarTop=zar1+zar2;
 		
 		if(zarTop==puan){
-			printf("kazandin1\n");
+			printf("kazandin\n");
 		}
 		else{
 		
 		while(zarTop!=puan){
 		if(zarTop==7){
-			printf("kaybettiniz1\n");
+			printf("kaybettiniz\n");
 		break;
 		}
 		if(zarTop==8)
 	{
-	printf("kazandiniz2\n");
+	printf("kazandiniz\n");
 	break;	
 	}
 		else{
