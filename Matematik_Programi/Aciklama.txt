@@ -1,0 +1,34 @@
+Basit bir matematik programı tasarlamanız istemektedir. Bu programda kullanıcı dört işlem gerçekleştirebilir. Bunlar
+Asal sayı bulma
+Sayı çarpımı
+Kuvvet Bulma
+Sayı Toplamı
+Her bir işlem öz-yineli fonksiyon olarak tasarlanmalıdır. 
+Kullanıcıya yapacağı işlemleri listeleyen menü de ayrı bir fonksiyon içerisinde tasarlanmalıdır.
+Programın detayları şu şekildedir:
+
+Menü fonksiyonu:
+    seçenekler dışında bir değer girildiğinde ilgili hata mesajı ekrana yazdırılır ve menü doğru seçenek girilinceye kadar listelenmeye devam eder. 
+Doğru seçenek seçilip ilgili hesaplamalar yaptırıldıktan sonra menü adımına geri dönülmelidir
+Kullanıcı bu adımda yeni bir hesaplama yapmak istemiyor ise -1 girer ve program sonlanır
+
+Asal sayı: 
+    Klavyeden kullanıcının girdiği bir değerin asal olup olmadığını bulmalıdır. Klavyeden sayi girme işlemi menü fonksiyonu içinde yapılmalıdır.
+ Fonksiyon, sayı asal ise 0 (sıfır) sonucu döndürmelidir.
+
+Sayı çarpım: 
+    Kendisine parametre olarak gelen 2 sayının çarpımını hesaplamalıdır.
+Bu sayılar klavyeden girilmeyecek, rastgele olarak üretilip fonksiyona gönderilecektir. 
+Birinci sayı için değer aralığı 1 – 20 (bu sayılar dahil), ikinci sayı için değer aralığı ise 2 – 100 (bu sayılar dahil) olmalıdır. 
+Sayılar fonksiyona gönderilmeden aldıkları değerler ekrana yazdırılmalıdır.
+
+Kuvvet Fonksiyonu:  
+    𝑋^𝑌 işleminin sonucu döndürülmelidir.  (POW fonksiyonunu kullanmayın) 
+X ve Y değerlerini kullanıcı klavyeden menü fonksiyonu içinde girecektir.
+
+Toplam fonksiyonu: 
+    Kendisine parametre olarak gelen 2 sayının toplamını hesaplamalıdır. 
+Bu sayılar klavyeden girilmeyecek, rastgele olarak üretilip fonksiyona gönderilecektir. 
+Birinci sayı için değer aralığı 1 – 100 (bu sayılar dahil), ikinci sayı için değer aralığı ise 100 – 200 (bu sayılar dahil) olmalıdır. 
+Sayılar fonksiyona gönderilmeden aldıkları değerler ekrana yazdırılmalıdır.
+
